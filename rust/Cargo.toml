@@ -1,0 +1,7 @@
+[package]
+name = "replacemeuwu"
+version = "0.1.0"
+edition = "2021"
+authors = ["Agatha V. Lovelace <agatha@technogothic.net>"]
+description = "replacemeuwu"
+license = "NVPLv7+"
